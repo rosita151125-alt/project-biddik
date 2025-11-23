@@ -144,3 +144,8 @@ vite.config.ts.timestamp-*
 *.env
 .env.local
 .env.production
+
+# Our custom rules
+*.env
+.env.local
+.env.production
